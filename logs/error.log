@@ -1,0 +1,3 @@
+[E]2021-10-31 22:32:03.204 loggo_test.go:10 error test
+[E]2021-10-31 22:34:38.980 loggo_test.go:10 error test
+[E]2021-10-31 22:34:38.980 loggo_test.go:13 ErrorFormat: error format,map[1:1111 2:2222]

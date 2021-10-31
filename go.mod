@@ -1,1 +1,1 @@
-module "2021/loggo"
+module "github.com/yunsonggo/loggo"

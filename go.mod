@@ -1,1 +1,1 @@
-module "github.com/yunsonggo/loggo"
+module github.com/yunsonggo/loggo
